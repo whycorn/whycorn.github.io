@@ -1,5 +1,5 @@
 ##### lightning network:
-* wallets: [breez](https://breez.technology/), [phoenix](https://phoenix.acinq.co/), [muun](https://muun.com/), [blue wallet](https://bluewallet.io/), [wallet of satoshi](https://www.walletofsatoshi.com/)
+* wallets: [breez](https://breez.technology/), [phoenix](https://phoenix.acinq.co/), [blue wallet](https://bluewallet.io/), [wallet of satoshi](https://www.walletofsatoshi.com/)
 * get instant virtual card with lightning, [here](https://www.coindebit.io/) and [here](https://paywithmoon.com/)
 * gift with lightning, [here](https://lightning.gifts/)
 * [how to run a lightning node, btc sessions](https://www.youtube.com/watch?v=KItleddMYFU)

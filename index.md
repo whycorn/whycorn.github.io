@@ -4,7 +4,7 @@ layout: default
 ---
  
 "The computer can be used as a tool to liberate and protect people, rather than to control them"
-~ Hal Finney
+<br>~ Hal Finney
 
 
 ##### introductory:
