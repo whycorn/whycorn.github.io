@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css?family=Chivo+Mono');
+
+html, body {
+    margin: 20px;
+    padding: 20px;
+    height: 80%;
+    width: 80%;
+    background-color: #fff6dc;
+}
+
+.logo{
+    font-family: 'Chivo Mono';
+    font-size: 50px;
+    color: #043e6d;
+}
+
+.text{
+    font-family: 'Chivo Mono';
+    font-size: 20px;
+    color: #2932ac;
+}
+
+.unset{
+    all: unset;
+    text-decoration: underline;
+}
