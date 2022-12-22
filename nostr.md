@@ -2,6 +2,8 @@
 title: nostr
 layout: default
 ---
+
+
 ```json
     {  
         "nostr":"npub13jntyztptpq73uagw2w8hsc3hrzw58qmrvxptearjqp42xwq9kgs7jf32m"
