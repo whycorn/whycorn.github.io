@@ -2,8 +2,11 @@
 title: nostr
 layout: default
 ---
-
-<font class="smlFont">{"nostr":"npub13jntyztptpq73uagw2w8hsc3hrzw58qmrvxptearjqp42xwq9kgs7jf32m"}</font>
+```json
+    {  
+        "nostr":"npub13jntyztptpq73uagw2w8hsc3hrzw58qmrvxptearjqp42xwq9kgs7jf32m"
+    }
+```
 
 ##### about nostr
 - [how to get started with nostr](https://github.com/vishalxl/nostr_console/discussions/31)
