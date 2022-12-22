@@ -19,12 +19,10 @@ layout: default
 * [difficulty adjustment](https://en.bitcoin.it/wiki/Difficulty)
 * [halving of issuance](https://www.investopedia.com/bitcoin-halving-4843769)
 * [cypherpunks write code, documentary](https://www.youtube.com/playlist?list=PLBuns9Evn1w-T2RwqMhUnTZbTTe-M-g42)
-* [freedom of speech in software](http://www.philsalin.com/patents.html), [phil salin](http://www.philsalin.com/), [xanadu](https://www.wired.com/1995/06/xanadu/)
 * [lightning network overview](https://dev.lightning.community/overview/)
 * [what is taproot](https://river.com/learn/what-is-taproot/)
 * [how is bitcoin core maintained, podcast episode](https://stephanlivera.com/episode/242/)
 * [security and centralization risks of big blocks](https://bitcoinmagazine.com/guides/what-is-the-bitcoin-block-size-limit)
-* [origins of money by carl menger - notes](https://github.com/nsingla/bookmarks/blob/master/books/the_origins_of_money_menger.md)
 
 
 
@@ -34,19 +32,10 @@ layout: default
 * [the bullish case for bitcoin, vijay boyapati](https://vijayboyapati.medium.com/the-bullish-case-for-bitcoin-6ecc8bdecc1)
 * [the greatest game](https://medium.com/the-bitcoin-times/the-greatest-game-b787ac3242b2)
 * [bitcoin is time](https://dergigi.com/2021/01/14/bitcoin-is-time/)
-* [hidden costs of the petrodollar](https://bitcoinmagazine.com/culture/the-hidden-costs-of-the-petrodollar)
-* [petrodollarsfilm.com](https://www.petrodollarsfilm.com/)
-* [illicit use?](https://www.forbes.com/sites/stevenehrlich/2021/04/13/janet-yellen-bitcoin-and-crypto-fearmongers-get-pushback-from-former-cia-director/?sh=5bc4cfc09bb7)
-* on energy consumption:  [nymag article](https://nymag.com/intelligencer/2021/05/jack-dorsey-says-bitcoin-is-climate-friendly-is-he-right.html), [square paper](https://t.co/UmayxNtCFJ?amp=1), nic carter: [hbr article](https://hbr.org/2021/05/how-much-energy-does-bitcoin-actually-consume), [coindesk article-1](https://www.coindesk.com/the-last-word-on-bitcoins-energy-consumption?amp=1), [coindesk article-2](https://www.coindesk.com/frustrating-maddening-all-consuming-bitcoin-energy-debate), [nyt article rebuttal](https://medium.com/@nic__carter/on-bitcoin-the-gray-lady-embraces-climate-lysenkoism-a2d31e465ec0)
-* [bitcoin mining and the case for more energy](https://bitcoinandenergy.medium.com/bitcoin-mining-and-the-case-for-more-energy-90094ce25fac)
 * [bitcoin doesn't waste energy, nakamoto institute](https://nakamotoinstitute.org/mempool/bitcoin-does-not-waste-energy/)
-* on adoption, [a twitter thread](https://twitter.com/skwp/status/1335627976105467906), [nigeria](https://qz.com/africa/1947769/nigeria-is-the-second-largest-bitcoin-market-after-the-us/), p2p volumes [here](https://coin.dance/volume/paxful), [and here](https://www.usefultulips.org/), [hashrate](https://www.blockchain.com/charts/hash-rate)
-* on distribution [link1](https://twitter.com/LynAldenContact/status/1329547034886627329), [link2](https://coinmetrics.io/measuring-bitcoins-decentralization/)
-* [speculative attack](https://nakamotoinstitute.org/mempool/speculative-attack/)
 * [bitcoin concerns and faqs, nakamoto institute](https://nakamotoinstitute.org/mempool/)
 * [end the fud](https://endthefud.org/)
 * [shelling out, the origins of money - nick szabo](https://nakamotoinstitute.org/shelling-out/)
-
 
 
 ##### podcasts:
@@ -56,14 +45,13 @@ layout: default
 * [bitcoin echo chamber](https://bitcoinechochamber.com/podcasts/)
 * [bitcoin audible, guy swann](https://anchor.fm/thecryptoconomy)
 * [chaincode podcast](https://podcast.chaincode.com/)
-* [bitcointv.com](https://bitcointv.com/videos/overview)
-
 
 
 ##### newsletters:
-* [jimmy song](https://jimmysong.substack.com/)
-* [marty bent](https://tftc.io/martys-bent/#)
+* [no bullshit bitcoin](https://www.nobsbitcoin.com/)
 * [bitcoin optech (technical)](https://bitcoinops.org/)
+* [marty bent](https://tftc.io/martys-bent/#)
+* [jimmy song](https://jimmysong.substack.com/)
 
 
 ##### books:
@@ -82,9 +70,7 @@ layout: default
 
 
 ##### courses:
-* [princeton course, arvind narayanan](https://www.coursera.org/learn/cryptocurrency)
-* [lightning network, chaincode labs](https://github.com/chaincodelabs/lightning-curriculum)
-* [summer of bitcoin](https://summerofbitcoin.org/)
+* [chaincode seminars](https://chaincode.gitbook.io/seminars/)
 * [austrian economics, saifedean](https://learn.saylor.org/course/view.php?id=480)
 
 
@@ -92,13 +78,9 @@ layout: default
 * [how to review pull request in bitcoin core](https://jonatack.github.io/articles/how-to-review-pull-requests-in-bitcoin-core)
 * [statechains](https://bitcoinmagazine.com/technical/statechains-sending-keys-not-coins-to-scale-bitcoin-off-chain)
 * [sidechains](https://en.bitcoin.it/wiki/Sidechain)
-* [centralization of internet](https://www.whatbitcoindid.com/podcast/bitcoin-tech-6-the-threat-of-internet-centralisation)
-* [streisand effect](https://en.wikipedia.org/wiki/Streisand_effect)
-* [perverse incentive/cobra effect](https://en.wikipedia.org/wiki/Perverse_incentive#The_original_cobra_effect)
 * [the skeptics aka speculators](https://nakamotoinstitute.org/the-skeptics/)
 * [how ethical hackers free us?](http://www.catb.org/~esr/faqs/hacker-howto.html)
 * [cypherpunk manifesto](https://www.activism.net/cypherpunk/manifesto.html)
-
 
 
 ##### useful websites:
@@ -109,20 +91,14 @@ layout: default
 * [lightning network guide](https://ln.guide/)
 * [lightning resources](https://github.com/bcongdon/awesome-lightning-network#implementations)
 * [lightning pool by lightning labs](https://lightning.engineering/posts/2020-11-02-lightning-pool/)
-* [mempool stats](https://mempool.space/)
+* [mempool.space - block explorer](https://mempool.space/)
 * [sphinx chat on lightning](https://sphinx.chat/)
 * [open source banking on btc/lightning, galoy](https://github.com/GaloyMoney)
 * [bitcoin dev list](https://bitcoindevlist.com/)
 * [brink](https://brink.dev/)
 * [opensats](https://opensats.org/)
-* [chaincode labs](https://chaincode.com/)
-* [cypherpunks](https://en.wikipedia.org/wiki/Cypherpunk)
-* [anarcho-capitalism](https://en.wikipedia.org/wiki/Anarcho-capitalism)
 * [seedplate reviews](https://jlopp.github.io/metal-bitcoin-storage-reviews/)
 * [wtf happened in 1971](https://wtfhappenedin1971.com/)
-* [whynotethereum.xyz](http://whynotethereum.xyz)
-* [why not alts](https://jimmysong.medium.com/on-altcoin-valuation-bf19a30ee0df)
-* [real bitcoin volume](https://www.bitcointradevolume.com/)
 
 
 

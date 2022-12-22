@@ -4,6 +4,7 @@ layout: default
 ---
 
 ##### about nostr
+- [how to get started with nostr](https://github.com/vishalxl/nostr_console/discussions/31)
 - [nostr open protocol github](https://github.com/nostr-protocol/nostr)
 - [usenostr.org](usenostr.org)
 - [nostr.net](nostr.net)
