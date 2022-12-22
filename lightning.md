@@ -16,6 +16,11 @@
 * [umbrel: run bitcoin node and lightning node from single dashboard](https://getumbrel.com/)
 * [install core lightning](https://lightning.readthedocs.io/INSTALL.html)
 
+##### libraries:
+* [LDK](https://lightningdevkit.org/)
+* [WebLN](https://www.webln.guide/)
+* [LNBits, multi accounts management](https://lnbits.com/)
+
 ##### misc:
 * [awesome lnurl links](https://github.com/fiatjaf/awesome-lnurl)
 * [stats](https://bitcoinvisuals.com/lightning), [stats2](https://1ml.com/location?type=country)

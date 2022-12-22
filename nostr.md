@@ -12,7 +12,9 @@ layout: default
 
 ##### nostr clients:
 - [damus app](https://damus.io)
-- [anigma web client](https://anigma.io/)
+- [telegram clone, anigma](https://anigma.io/)
+- [astral.ninja](https://astral.ninja)
+
 
 #####  nostr relays:
 - [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay)
