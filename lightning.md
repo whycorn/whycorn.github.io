@@ -1,12 +1,22 @@
 ##### lightning network:
-* wallets: [breez](https://breez.technology/), [phoenix](https://phoenix.acinq.co/), [blue wallet](https://bluewallet.io/), [wallet of satoshi](https://www.walletofsatoshi.com/)
-* get instant virtual card with lightning, [here](https://www.coindebit.io/) and [here](https://paywithmoon.com/)
-* gift with lightning, [here](https://lightning.gifts/)
-* [how to run a lightning node, btc sessions](https://www.youtube.com/watch?v=KItleddMYFU)
+
+##### introductory:
+* [understanding lightning network](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791)
+* [different implementations of lightning protocol](https://bitcoinmagazine.com/technical/understanding-the-lightning-network-part-building-a-bidirectional-payment-channel-1464710791)
+
+##### wallets: 
+* [zeus-ln](https://zeusln.app/)
+* [breez](https://breez.technology/)
+* [phoenix](https://phoenix.acinq.co/)
+* [blue wallet](https://bluewallet.io/)
+* [wallet of satoshi](https://www.walletofsatoshi.com/)
+* [alby - browser extension](https://getalby.com/)
+
+##### lightning nodes:
 * [umbrel: run bitcoin node and lightning node from single dashboard](https://getumbrel.com/)
-* [comparison of lightning wallets](https://docs.google.com/spreadsheets/d/1jzJ2Vut6q-cbr7bg3tshqJszJFLXpvi194os7GxQQ30/edit#gid=1531699029)
-* [impervious, using lightning network as a transport layer](https://www.impervious.ai/)
-* [impervious demo](https://www.youtube.com/watch?v=5zWoAE8OkFY)
+* [install core lightning](https://lightning.readthedocs.io/INSTALL.html)
+
+##### misc:
 * [awesome lnurl links](https://github.com/fiatjaf/awesome-lnurl)
 * [stats](https://bitcoinvisuals.com/lightning), [stats2](https://1ml.com/location?type=country)
 * [the state of lightning, nov 2021](https://lightninglabs.substack.com/p/the-state-of-lightning-more-users)
