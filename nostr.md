@@ -15,7 +15,6 @@ layout: default
 - [telegram clone, anigma](https://anigma.io/)
 - [astral.ninja](https://astral.ninja)
 
-
 #####  nostr relays:
 - [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay)
 
@@ -28,3 +27,8 @@ layout: default
 - [nostr-js](https://github.com/jb55/nostr-js)
 - [go-nostr](https://github.com/nbd-wtf/go-nostr)
 - [python-nostr](https://github.com/jeffthibault/python-nostr)
+
+##### misc:
+- [NIPs - improvement proposals](https://github.com/nostr-protocol/nips)
+- [nip-05 verification via github pages](https://nvk.org/n00b-nip5)
+- [nostr privacy](https://consentonchain.github.io/blog/posts/nostr-privacy/)
