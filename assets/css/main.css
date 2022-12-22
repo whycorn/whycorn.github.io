@@ -20,6 +20,12 @@ html, body {
     color: #2932ac;
 }
 
+.smlFont{
+    font-family: 'Chivo Mono';
+    font-size: 9px;
+    color: #2932ac;
+}
+
 .unset{
     all: unset;
     text-decoration: underline;
