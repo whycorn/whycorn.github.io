@@ -3,6 +3,8 @@ title: nostr
 layout: default
 ---
 
+<font class="smlFont">my nostr pub key:npub13jntyztptpq73uagw2w8hsc3hrzw58qmrvxptearjqp42xwq9kgs7jf32m</font>
+
 ##### about nostr
 - [how to get started with nostr](https://github.com/vishalxl/nostr_console/discussions/31)
 - [nostr open protocol github](https://github.com/nostr-protocol/nostr)
