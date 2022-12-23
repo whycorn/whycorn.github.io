@@ -13,9 +13,9 @@ layout: default
 ##### about nostr
 - [how to get started with nostr](https://github.com/vishalxl/nostr_console/discussions/31)
 - [nostr open protocol github](https://github.com/nostr-protocol/nostr)
-- [usenostr.org](usenostr.org)
-- [nostr.net](nostr.net)
-- [nostr.com](nostr.com)
+- [usenostr.org](https://usenostr.org)
+- [nostr.net](https://nostr.net)
+- [nostr.com](https://nostr.com)
 
 ##### nostr clients:
 - [damus app](https://damus.io)
