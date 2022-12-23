@@ -24,7 +24,8 @@ layout: default
 - [nostr cli, noscl](https://github.com/fiatjaf/noscl)
 
 #####  nostr relays:
-- [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay)
+- [nostr-rs-relay (rust)](https://github.com/scsibug/nostr-rs-relay)
+- [nostr-ts-relay (typescript) guide](https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under)
 
 ##### nostr relay registry:
 - [nostr relay registry](https://github.com/fiatjaf/nostr-relay-registry)
