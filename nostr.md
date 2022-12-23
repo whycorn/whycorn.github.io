@@ -25,6 +25,7 @@ layout: default
 - [nostr-console](https://github.com/vishalxl/nostr_console)
 
 #####  nostr relays:
+- [nostr python relay](https://code.pobblelabs.org/fossil/nostr_relay/index)
 - [nostr-rs-relay (rust)](https://github.com/scsibug/nostr-rs-relay)
 - [nostr-ts-relay (typescript) guide](https://andreneves.xyz/p/set-up-a-nostr-relay-server-in-under)
 
