@@ -21,6 +21,7 @@ layout: default
 - [damus app](https://damus.io)
 - [telegram clone, anigma](https://anigma.io/)
 - [astral.ninja](https://astral.ninja)
+- [nostr cli, noscl](https://github.com/fiatjaf/noscl)
 
 #####  nostr relays:
 - [nostr-rs-relay](https://github.com/scsibug/nostr-rs-relay)
