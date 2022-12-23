@@ -22,6 +22,7 @@ layout: default
 - [telegram clone, anigma](https://anigma.io/)
 - [astral.ninja](https://astral.ninja)
 - [nostr cli, noscl](https://github.com/fiatjaf/noscl)
+- [nostr-console](https://github.com/vishalxl/nostr_console)
 
 #####  nostr relays:
 - [nostr-rs-relay (rust)](https://github.com/scsibug/nostr-rs-relay)
