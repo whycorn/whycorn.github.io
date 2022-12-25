@@ -12,6 +12,7 @@ layout: default
 * [hello bitcoin slides](https://docs.google.com/presentation/d/1i4Ipk3Z7NwdUEHzavx5K9SVAMs5s2dQWyfzauk98H80/edit#slide=id.p)
 * [economics of bitcoin, saifedean](https://www.youtube.com/watch?v=1WBrdLQhUrg)
 * [original bitcoin paper](https://nakamotoinstitute.org/bitcoin/)
+* [learnmeabitcoin](https://learnmeabitcoin.com/)
 * wallets: [not your keys, not your bitcoin](https://www.swanbitcoin.com/bitcoin-wallets-not-your-keys-not-your-bitcoin/)
 * [don't trust, verify](https://bitcoinmagazine.com/culture/trust-through-verification-bitcoin)
 * [multi-signature transactions](https://en.bitcoin.it/wiki/Multisignature)
@@ -23,6 +24,7 @@ layout: default
 * [what is taproot](https://river.com/learn/what-is-taproot/)
 * [how is bitcoin core maintained, podcast episode](https://stephanlivera.com/episode/242/)
 * [security and centralization risks of big blocks](https://bitcoinmagazine.com/guides/what-is-the-bitcoin-block-size-limit)
+
 
 
 
