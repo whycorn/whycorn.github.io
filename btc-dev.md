@@ -1,7 +1,15 @@
 ---
-title: btd-dev
+title: btc-dev
 layout: default
 ---
+
+#### misc:
+- [blkdat files](https://learnmeabitcoin.com/technical/blkdat)
+- [magic bytes](https://learnmeabitcoin.com/technical/magic-bytes)
+- [python blockchain parser](https://github.com/alecalve/python-bitcoin-blockchain-parser)
+- [esplora: blockchain explorer](https://github.com/Blockstream/esplora/blob/master/API.md)
+
+
 
 #### pruned nodes/assumeutxo:
 - [prune node](https://bitcoin.stackexchange.com/questions/92769/bitcoin-full-node-how-to-run-a-pruned-node-explaining-pruning)
