@@ -3,6 +3,10 @@ title: btc-dev
 layout: default
 ---
 
+#### cli:
+- [regtest, commands](https://www.willianantunes.com/blog/2022/04/bitcoin-node-with-regtest-mode-using-docker/)
+- [learning bitcoin from cli]()
+
 #### misc:
 - [blkdat files](https://learnmeabitcoin.com/technical/blkdat)
 - [magic bytes](https://learnmeabitcoin.com/technical/magic-bytes)

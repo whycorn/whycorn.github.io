@@ -10,12 +10,12 @@ title: dev-tools
 
 
 #### TUI frameworks:
-- [textualize - python](https://www.textualize.io/)
+- python:[typer](https://typer.tiangolo.com/tutorial/options/name/), [rich(formatting)](), [textualize](https://www.textualize.io/)
 
 
 #### p2p tools:
 - udp holepunching: [python example video](https://www.youtube.com/watch?v=IbzGL_tjmv4)
-- webrtc: [webrtc](https://web.dev/webrtc-infrastructure/) | [webrtc vs websockets](https://ably.com/topic/webrtc-vs-websocket) | [webrtc with manual signalling](https://github.com/cjb/serverless-webrtc)
+- webrtc: [webrtc](https://web.dev/webrtc-infrastructure/),....[webrtc vs websockets](https://ably.com/topic/webrtc-vs-websocket),...[webrtc with manual signalling](https://github.com/cjb/serverless-webrtc)
 
 
 
