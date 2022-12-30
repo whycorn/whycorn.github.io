@@ -1,10 +1,9 @@
 ---
-title: fav papers
+title: greatest reads
 layout: default
 ---
 
 
-##### favorite papers
 * [freedom of speech in software, phil salin](http://www.philsalin.com/patents.html)
 * [high tech hayekians/agorics project, lavoie et al](http://www.philsalin.com/hth/hth.html)
 * [the ecology of decisions, phil salin](http://www.philsalin.com/kitchens/index.html)
