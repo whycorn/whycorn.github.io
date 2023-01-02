@@ -5,7 +5,11 @@ layout: default
 
 #### cli:
 - [regtest, commands](https://www.willianantunes.com/blog/2022/04/bitcoin-node-with-regtest-mode-using-docker/)
-- [learning bitcoin from cli]()
+- [learning bitcoin from cli](https://github.com/BlockchainCommons/Learning-Bitcoin-from-the-Command-Line)
+
+#### open-source payment solutions:
+- [btcpay](https://btcpayserver.org/)
+- [coinos](https://coinos.io)
 
 #### misc:
 - [blkdat files](https://learnmeabitcoin.com/technical/blkdat)
