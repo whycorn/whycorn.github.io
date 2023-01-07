@@ -69,7 +69,6 @@ layout: default
 * [grokking bitcoin, rosenbaum](https://www.manning.com/books/grokking-bitcoin#toc)
 * [bitcoin - work in progress, sjors](https://www.btcwip.com/)
 * [blocksize war](https://www.amazon.com/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM/ref=sr_1_1?keywords=the+blocksize+war&qid=1646878638&sr=8-1)
-
 * [programming bitcoin, jimmy song](https://www.amazon.com/Programming-Bitcoin-Learn-Program-Scratch/dp/1492031496/ref=sr_1_2?dchild=1&keywords=programming+bitcoin&qid=1614973002&sr=8-2)
 * [mastering lightning network, andreas](https://github.com/lnbook/lnbook)
 * [bitcoin cryptography explained](https://drive.google.com/file/d/1EUw4yMXy2FKYRxdUvh4Rh2Vm2OKWeVut/view)
