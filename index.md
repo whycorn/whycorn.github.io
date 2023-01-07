@@ -60,14 +60,18 @@ layout: default
 * [the little bitcoin book, jimmy song](https://www.amazon.com/Little-Bitcoin-Book-Matters-Finances/dp/1641990503/ref=sr_1_5?dchild=1&keywords=little+bitcoin+book&qid=1614972992&sr=8-5)
 * [21 lessons, gigi](https://www.amazon.com/gp/product/1697526349/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1697526349&linkCode=as2&tag=dergigi-20&linkId=b17de885d1dfaf3cec52479f69374fbb#customerReviews)
 * [the bitcoin standard, saifedean](https://www.amazon.com/Bitcoin-Standard-Decentralized-Alternative-Central/dp/1119473861/ref=sr_1_1?dchild=1&keywords=saifedean&qid=1606007632&sr=8-1)
-* [blocksize war](https://www.amazon.com/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM/ref=sr_1_1?keywords=the+blocksize+war&qid=1646878638&sr=8-1)
 * [thank god for bitcoin, jimmy song](https://www.amazon.com/Thank-God-Bitcoin-Corruption-Redemption/dp/1641991216/ref=sr_1_1?dchild=1&keywords=thank+god+for+bitcoin&qid=1614976491&sr=8-1)
 * [sovereign individual, davidson](https://www.amazon.com/Sovereign-Individual-Mastering-Transition-Information/dp/0684832720/ref=sr_1_2?crid=2TVFFKXB4U7IC&dchild=1&keywords=sovereign+individual&qid=1606007663&sprefix=sovereign+indiv%2Caps%2C370&sr=8-2)
 * [cypherpunks, freedom and the future of the internet by julian assange](https://www.amazon.com/Cypherpunks-Freedom-Internet-Julian-Assange/dp/1944869085/ref=tmm_pap_swatch_0?_encoding=UTF8&qid=1623004507&sr=8-3)
 * [the structure of scientific revolutions, thomas kuhn](https://www.amazon.com/Structure-Scientific-Revolutions-Thomas-Kuhn/dp/0226458083)
+* [mastering bitcoin, andreas](https://www.amazon.com/Mastering-Bitcoin-Programming-Open-Blockchain-ebook/dp/B071K7FCD4)
+* [the book of satoshi](https://www.amazon.com/Book-Satoshi-Collected-Writings-Nakamoto/dp/0996061312/ref=sr_1_1?keywords=book+of+satoshi&qid=1673108186&sr=8-1)
 * [grokking bitcoin, rosenbaum](https://www.manning.com/books/grokking-bitcoin#toc)
+* [bitcoin - work in progress, sjors](https://www.btcwip.com/)
+* [blocksize war](https://www.amazon.com/Blocksize-War-controls-Bitcoins-protocol/dp/B08YQMC2WM/ref=sr_1_1?keywords=the+blocksize+war&qid=1646878638&sr=8-1)
+
 * [programming bitcoin, jimmy song](https://www.amazon.com/Programming-Bitcoin-Learn-Program-Scratch/dp/1492031496/ref=sr_1_2?dchild=1&keywords=programming+bitcoin&qid=1614973002&sr=8-2)
-* [mastering lightning network](https://github.com/lnbook/lnbook)
+* [mastering lightning network, andreas](https://github.com/lnbook/lnbook)
 * [bitcoin cryptography explained](https://drive.google.com/file/d/1EUw4yMXy2FKYRxdUvh4Rh2Vm2OKWeVut/view)
 
 
