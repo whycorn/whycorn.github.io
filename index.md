@@ -24,6 +24,7 @@ layout: default
 * [what is taproot](https://river.com/learn/what-is-taproot/)
 * [how is bitcoin core maintained, podcast episode](https://stephanlivera.com/episode/242/)
 * [security and centralization risks of big blocks](https://bitcoinmagazine.com/guides/what-is-the-bitcoin-block-size-limit)
+* [stacker news](https://stacker.news/)
 
 
 
