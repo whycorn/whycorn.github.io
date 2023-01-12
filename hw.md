@@ -15,5 +15,5 @@
 #### 3d printing:
 `design -> slice -> print`
 - [get some free stl/designs](https://www.thingiverse.com/)
-- [cad tinkering for beginners: tinkercad](tinkercad.com/)
+- [cad tinkering for beginners: tinkercad](https://tinkercad.com/)
 - [cura slicer software](https://ultimaker.com/software/ultimaker-cura)
