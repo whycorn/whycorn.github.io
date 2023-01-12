@@ -16,6 +16,7 @@
 - [get some free stl/designs](https://www.thingiverse.com/)
 - [cad tinkering for beginners: tinkercad](https://tinkercad.com/)
 - [cura slicer software](https://ultimaker.com/software/ultimaker-cura)
+- printers: [creality](https://www.creality.com/), [prusa](https://www.prusa3d.com/), [bambu](https://bambulab.com/en)
 
 
 #### phone os:
