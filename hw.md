@@ -3,6 +3,7 @@
 
 #### basics:
 - [microcontroller vs microprocessor boards](https://www.youtube.com/watch?v=FFHoYSMiK40)
+- [arduino basics](https://www.youtube.com/watch?v=KN4pyzOXRbg)
 - [fpga boards](https://www.youtube.com/watch?v=lLg1AgA2Xoo)
 
 
