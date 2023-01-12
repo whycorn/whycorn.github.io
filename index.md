@@ -44,7 +44,7 @@ layout: default
 ##### podcasts:
 * [bitcoin review by nvk](https://podcasts.apple.com/us/podcast/bitcoin-review-podcast-with-nvk-guests/id1632017958)
 * [stephen livera podcast](https://stephanlivera.com/)
-* [tales from the crypt, marty bent](https://tftc.io/podcasts/)
+* [tales from the crypt, marty bent](https://tftc.io/tftc-podcast/)
 * [bitcoin fixes this, jimmy song](https://podcasts.apple.com/us/podcast/bitcoin-fixes-this/id1523910866)
 * [chaincode podcast](https://podcast.chaincode.com/)
 
