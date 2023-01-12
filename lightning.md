@@ -1,3 +1,8 @@
+---
+title: lightning
+layout: default
+---
+
 ##### lightning network:
 
 ##### introductory:
