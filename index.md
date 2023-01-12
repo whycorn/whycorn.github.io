@@ -42,11 +42,10 @@ layout: default
 
 
 ##### podcasts:
+* [bitcoin review by nvk](https://podcasts.apple.com/us/podcast/bitcoin-review-podcast-with-nvk-guests/id1632017958)
 * [stephen livera podcast](https://stephanlivera.com/)
 * [tales from the crypt, marty bent](https://tftc.io/podcasts/)
 * [bitcoin fixes this, jimmy song](https://podcasts.apple.com/us/podcast/bitcoin-fixes-this/id1523910866)
-* [bitcoin echo chamber](https://bitcoinechochamber.com/podcasts/)
-* [bitcoin audible, guy swann](https://anchor.fm/thecryptoconomy)
 * [chaincode podcast](https://podcast.chaincode.com/)
 
 
