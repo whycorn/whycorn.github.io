@@ -3,10 +3,6 @@ title: btc-dev
 layout: default
 ---
 
-* notes:
-- private key security: multi-sig setup has some privacy downside(specially if it's a non-standard setup like 2-of-3 that most people use). 2-of-2 is the second most used (blockstream green, lightning).
-For single-sig setup additional options include seedxor, shamir-secrets and passphrase but extra-cautious with exotic setups. 
-
 
 #### cli:
 - [regtest, commands](https://www.willianantunes.com/blog/2022/04/bitcoin-node-with-regtest-mode-using-docker/)
