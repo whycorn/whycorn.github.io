@@ -24,8 +24,6 @@ layout: default
 * [what is taproot](https://river.com/learn/what-is-taproot/)
 * [how is bitcoin core maintained, podcast episode](https://stephanlivera.com/episode/242/)
 * [security and centralization risks of big blocks](https://bitcoinmagazine.com/guides/what-is-the-bitcoin-block-size-limit)
-* [stacker news](https://stacker.news/)
-
 
 
 
@@ -42,8 +40,9 @@ layout: default
 
 
 ##### podcasts:
-* [bitcoin review by nvk](https://podcasts.apple.com/us/podcast/bitcoin-review-podcast-with-nvk-guests/id1632017958)
+* [bitcoin explained](https://podcasts.apple.com/us/podcast/bitcoin-explained-the-technical-side-of-bitcoin/id1532957243)
 * [stephen livera podcast](https://stephanlivera.com/)
+* [bitcoin review by nvk](https://podcasts.apple.com/us/podcast/bitcoin-review-podcast-with-nvk-guests/id1632017958)
 * [tales from the crypt, marty bent](https://tftc.io/tftc-podcast/)
 * [bitcoin fixes this, jimmy song](https://podcasts.apple.com/us/podcast/bitcoin-fixes-this/id1523910866)
 * [chaincode podcast](https://podcast.chaincode.com/)
@@ -54,6 +53,7 @@ layout: default
 * [bitcoin optech (technical)](https://bitcoinops.org/)
 * [marty bent](https://tftc.io/martys-bent/#)
 * [jimmy song](https://jimmysong.substack.com/)
+* [stacker news](https://stacker.news/)
 
 
 ##### books:
